@@ -3,7 +3,7 @@
 This is our hack with the beat project. (Xi Chen, James Williams)
 
 What is it?:
-  - it is a virtual piano which covers a single octive.
+  - it is a virtual piano which covers a single octave.
 
 How do use it?:
   - You can click on the keys using your mouse
